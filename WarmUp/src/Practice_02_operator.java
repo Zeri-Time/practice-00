@@ -8,7 +8,7 @@ public class Practice_02_operator {
         int minus = b-a;
         int multi = a*b;
         int div = b/a;
-        int rest = b%a;
+//        int rest = b%a;
         System.out.println(sum);
         System.out.println(minus);
         System.out.println(multi);

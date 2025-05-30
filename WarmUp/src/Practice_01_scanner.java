@@ -3,7 +3,11 @@ import java.util.Scanner;
 public class Practice_01_scanner {
 
 
-    public static void main(String[]args){
+    public static void main(String[]args)
+    //public static void main(String[]args): 매소드 선언부
+    //main: 메소드 이름        
+    //여기부터
+    {
 
         System.out.println("이름, 나이, 키 순서대로 입력");
 
@@ -28,4 +32,5 @@ public class Practice_01_scanner {
 
         System.out.println("완료");
     }
+    //여기까지 : 메소드 블록
 }

@@ -1,4 +1,4 @@
-public class Practice_02 {
+public class Practice_03_wrapper {
     public static void main (String[] args){
 
     }

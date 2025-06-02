@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class Practice_06_condition02 {
+public class Practice_06_condition_for {
     public static void main (String[] args){
         int sum = 0;
         for (int i = 0; i <= 10; i++) {

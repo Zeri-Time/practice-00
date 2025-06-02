@@ -13,7 +13,7 @@ public class Practice_05_condition {
 //        else {
 //            System.out.println("10보다 작습니다");
 //        }
-
+//-----------------랜덤 숫자 뽑기----------------------
         int num = (int) (Math.random() * 6) + 1;
         //0.0보다 크거나 같고 6.0보다 작은 범위이기 때문에 +1을 하고 소수는 날려서 정수로 맞춤
 //        System.out.println(num);

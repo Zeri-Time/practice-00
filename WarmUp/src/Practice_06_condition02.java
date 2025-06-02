@@ -18,6 +18,13 @@ public class Practice_06_condition02 {
 //            System.out.println(sum2);
 //        scanner.close();
 //        }
-
+        //---------------구구단 실습-------------------
+        for (int x= 2; x < 10; x++){
+            System.out.println(x + "단");
+            for (int y = 1; y <10; y++){
+                int z = x*y;
+                System.out.println(x + "x" + y + "=" + z);
+            }
+        }
     }
 }

@@ -1,3 +1,5 @@
+package PracticeWarmUp;
+
 public class Practice_07_condition_while {
     public static void main (String[] args){
         int a = 1;

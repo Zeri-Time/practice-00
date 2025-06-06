@@ -1,4 +1,5 @@
-import java.util.Scanner;
+package PracticeWarmUp;
+
 public class Practice_04 {
     public static void main (String[] args) {
         int x = 1;

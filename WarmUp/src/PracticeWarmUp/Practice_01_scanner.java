@@ -1,3 +1,5 @@
+package PracticeWarmUp;
+
 import java.util.Scanner;
 
 public class Practice_01_scanner {

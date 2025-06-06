@@ -1,3 +1,5 @@
+package PracticeWarmUp;
+
 public class Practice_06_condition_for {
     public static void main (String[] args){
         int sum = 0;

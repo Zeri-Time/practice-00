@@ -1,3 +1,5 @@
+package PracticeWarmUp;
+
 public class Practice_08_array {
     public static void main (String[] args){
         //배열은 같은 타입의 데이터만 저장가능 (예: int는 int만, String은 문자열끼리)

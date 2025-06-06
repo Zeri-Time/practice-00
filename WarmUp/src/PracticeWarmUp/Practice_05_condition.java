@@ -1,4 +1,5 @@
-import java.util.Scanner;
+package PracticeWarmUp;
+
 public class Practice_05_condition {
     public static void main (String[] args){
 //        Scanner scanner = new Scanner(System.in);

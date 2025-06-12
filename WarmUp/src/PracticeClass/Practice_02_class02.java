@@ -8,7 +8,6 @@ public class Practice_02_class02 {
         System.out.println(myCar.model);
         System.out.println(myCar.color);
         System.out.println(myCar.maxSpeed);
-
         myCar.maxSpeed = 250;
         System.out.println(myCar.maxSpeed);
     }
